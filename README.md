@@ -1,6 +1,4 @@
 
-Note: I went to upload the data file vehicles.csv provided with the assignment but Github said it is too big since over 25 MB. So I did not load it to Github.
-
 Module 11.1 Assignment Findings
 The following recommendations are based on the customer data provided for the state of Arizona with the objective of determining which factors (features) most impact pricing negatively and positively where by the dealership and better market and negotiate car sales. Here is a list of the top impacting pricing factors from most to least. To make the modeling and analysis data easier to apply to marketing and negotiation stratgies they have been factored by magnitude with a positive or negative indicator applied. For example, 3 + in contrast to 0 means that factor will impact the price three times in benefit to that impact of that factor on increasing the price of the sale price.
 
