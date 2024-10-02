@@ -45,8 +45,10 @@ Utilize the machine learning models in proactive services delivery, quality assu
 #### Outline of project
 
 Jupyter Notebook link: https://github.com/plana912/UC/blob/main/Paul%20Jibrail%20Capstone%2020.1%20Oct%202024.ipynb
+
 File Name: Paul Jibrail Capstone 20.1 Oct 2024.ipynb
 
+Outline:
 - Business Understanding & Objectives
 - Data
 - Exploratory Data Analysis (EDA)
