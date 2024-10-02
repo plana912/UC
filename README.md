@@ -44,7 +44,7 @@ Utilize the machine learning models in proactive services delivery, quality assu
 
 #### Outline of project
 
-Jupyter Notebook link:
+Jupyter Notebook link: Paul Jibrail Capstone 20.1 Oct 2024.ipynb
 File Name: Paul Jibrail Capstone 20.1 Oct 2024.ipynb
 
 - Business Understanding & Objectives
