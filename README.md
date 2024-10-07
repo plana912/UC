@@ -27,7 +27,9 @@ URL: https://www.kaggle.com/datasets/prosperchuks/health-dataset?select=hyperten
 8. Determine the most impactful features that indicate hypertension
 9. Interpret the models performance in alignment with the project's objective(s)
 10. Identify the best model(s) to apply for medical services providers to apply
-11. Document business actionable recommendations
+11. Document top impacting features and state impact in non-data scientist terminology
+12. Document business actionable recommendations
+13. Provide an example of simple deployment packaging for non data scientist to use (joblib pkl)
 
 #### Results
 That all machine models produced high accuracy / performance in their predictions. Several techniques were utilized to ensure the results were not due to overfitting. Of the 14 indicators represented by data set features, these were the 'Top 5' indicators that most of the models' classification performance were due to:
