@@ -61,8 +61,7 @@ Outline:
 - Data Preparation
 - Modeling
 - Conclusion / Findings
-- Deployment / Implementation [Test_PKL_File notebook]'  '
-
+- Deployment / Implementation [Test_PKL_File notebook](https://github.com/plana912/UC/blob/main/Test_PKL_File.ipynb)
 
 ##### Contact and Further Information
 Paul Jibrail
