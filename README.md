@@ -28,7 +28,7 @@ URL: https://www.kaggle.com/datasets/prosperchuks/health-dataset?select=hyperten
 9. Interpret the models performance in alignment with the project's objective(s)
 10. Identify the best model(s) to apply for medical services providers to apply
 11. Document top impacting features and state impact in non-data scientist terminology
-12. Document business actionable recommendations
+12. Document business oriented insights and actionable recommendations
 13. Provide an example of simple deployment packaging for non data scientist to use (joblib pkl)
 
 #### Results
@@ -41,8 +41,12 @@ That all machine models produced high accuracy / performance in their prediction
    
 See the companion Jupyter Notebook for more information on each term/feature listed.
 
+I selected the KNN Model even a couple other models did well too. The KNN model also executes fast.
+
+All Business Insights and Actionable Recommendation are at the end of the Juypter Notebook.
+
 #### Next steps
-Utilize the machine learning models in proactive services delivery, quality assurance, and governnce activities at medical service providers. Further, gather data to train and improve the models. 
+Utilize the machine learning models in proactive services delivery, quality assurance, and governnce activities at medical service providers. Further, gather data to train and improve the models. See the Conclusion / Findings section of the Juypter Notebook for details.
 
 #### Outline of project
 
@@ -57,7 +61,7 @@ Outline:
 - Data Preparation
 - Modeling
 - Conclusion / Findings
-- Deployment / Implementation
+- Deployment / Implementation [Test_PKL_File notebook]'  '
 
 
 ##### Contact and Further Information
