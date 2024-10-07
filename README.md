@@ -47,6 +47,7 @@ All Business Insights and Actionable Recommendation are at the end of the Juypte
 
 Business Results
 [Interesting Findings](https://github.com/plana912/UC/blob/main/data/InterestingFindings.jpg)
+
 [Actionable Insights](https://github.com/plana912/UC/blob/main/data/ActionableInsights.jpg)
 
 #### Next steps
