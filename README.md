@@ -9,12 +9,12 @@ This capstone project's objective is to utilize machine learning models to class
 Predicating hypertension in patients with various indicators can be of great value for applying care more proactively and even for validating the current care services. Using a machine model will also improve quality control to ensure patient circumstances are not accidently missed impacting care delivery quality.
 
 #### Research Question
-Can a machine learning model predict with high accuracy whether patients have hypertension based on several relevant medical indicators, e.g., ECG results
+Can a machine learning model predict with high accuracy whether patients have hypertension based on several relevant medical indicators, e.g., ECG results? Then using the resulting machine model selected to supplement care providers work.
 
 #### Data Sources
 The data set I have selected for this project is from Kaggle. The title is: "Diabetes, Hypertension and Stroke Prediction"  which has three separate data sets within it, one of which is hypertension_data.csv.  It is partially cleaned data. The poster of the data was Prosper Chuks. He based the data posting on CDC data (BRFSS 2015).  The data set is 1.09 MB with 14 features and 26,083 samples. License CC0: Public Domain
 
-URL: https://www.kaggle.com/datasets/prosperchuks/health-dataset?select=hypertension_data.csv
+[Hupertension Data](https://www.kaggle.com/datasets/prosperchuks/health-dataset?select=hypertension_data.csv)
 
 #### Methodology
 1. Clean data of incomplete data samples
@@ -50,7 +50,7 @@ Utilize the machine learning models in proactive services delivery, quality assu
 
 #### Outline of project
 
-Jupyter Notebook link: [add link here]
+Jupyter Notebook link: [Paul Jibrail Capstone 24.1 Oct 2024](https://github.com/plana912/UC/blob/main/Paul Jibrail Capstone 24.1 Oct 2024.ipynb)
 
 File Name: Paul Jibrail Capstone 24.1 Oct 2024.ipynb
 
