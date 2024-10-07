@@ -50,7 +50,7 @@ Utilize the machine learning models in proactive services delivery, quality assu
 
 #### Outline of project
 
-Jupyter Notebook link: [Paul Jibrail Capstone 24.1 Oct 2024]
+Jupyter Notebook link: [Paul Jibrail Capstone 24.1 Oct 2024](https://github.com/plana912/UC/blob/main/Paul%20Jibrail%20Capstone%2024.1%20Oct%202024.ipynb)
 
 File Name: Paul Jibrail Capstone 24.1 Oct 2024.ipynb
 
