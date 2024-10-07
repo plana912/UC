@@ -45,6 +45,10 @@ I selected the KNN Model even a couple other models did well too. The KNN model 
 
 All Business Insights and Actionable Recommendation are at the end of the Juypter Notebook.
 
+Business Results
+[Interesting Findings](https://github.com/plana912/UC/blob/main/data/InterestingFindings.jpg)
+[Actionable Insights](https://github.com/plana912/UC/blob/main/data/ActionableInsights.jpg)
+
 #### Next steps
 Utilize the machine learning models in proactive services delivery, quality assurance, and governnce activities at medical service providers. Further, gather data to train and improve the models. See the Conclusion / Findings section of the Juypter Notebook for details.
 
